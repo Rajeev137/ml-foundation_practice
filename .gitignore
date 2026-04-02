@@ -1,0 +1,23 @@
+# Python Environments
+.venv/
+env/
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Datasets and Images
+data/
+dataset/
+*.csv
+*.jpg
+*.png
+*.zip
+.DS_Store
+ 
+# Saved Model Weights
+*.pth
+*.pt
+*.pkl
+.DS_Store 15-49-54-649
+.gitignore
